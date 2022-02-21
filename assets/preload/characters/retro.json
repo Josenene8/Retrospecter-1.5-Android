@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-62,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Retro IDLE"
+		},
+		{
+			"offsets": [
+				-37,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Retro LEFT"
+		},
+		{
+			"offsets": [
+				-43,
+				-56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Retro DOWN"
+		},
+		{
+			"offsets": [
+				-39,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Retro RIGHT"
+		},
+		{
+			"offsets": [
+				-43,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Retro UP"
+		},
+		{
+			"offsets": [
+				-71,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Enough",
+			"loop": false,
+			"name": "Enough"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WrathRetroSpecter",
+	"position": [
+		-60,
+		-155
+	],
+	"healthicon": "retro",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.04
+}

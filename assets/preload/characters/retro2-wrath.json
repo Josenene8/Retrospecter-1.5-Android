@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Retro IDLE"
+		},
+		{
+			"offsets": [
+				19,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Retro LEFT"
+		},
+		{
+			"offsets": [
+				-52,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Retro DOWN"
+		},
+		{
+			"offsets": [
+				-12,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Retro UP"
+		},
+		{
+			"offsets": [
+				-158,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Retro RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/WrathRetroSpecter_2",
+	"position": [
+		-400,
+		-85
+	],
+	"healthicon": "retro2-wrath",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		172,
+		180
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

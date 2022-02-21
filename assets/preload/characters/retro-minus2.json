@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				186,
+				497
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Minus Retro Sweat Left Note"
+		},
+		{
+			"offsets": [
+				66,
+				313
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Minus Retro Sweat Down Note"
+		},
+		{
+			"offsets": [
+				107,
+				599
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Minus Retro Sweat Up Note"
+		},
+		{
+			"offsets": [
+				58,
+				513
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Minus Retro Sweat Right Note"
+		},
+		{
+			"offsets": [
+				35,
+				471
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Minus Retro Sweat Idle"
+		},
+		{
+			"offsets": [
+				18,
+				463
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Grunt",
+			"loop": false,
+			"name": "Minus Retro Sweat Grunt"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sweatro_Assets",
+	"position": [
+		-240,
+		490
+	],
+	"healthicon": "retro-minus2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		255
+	],
+	"camera_position": [
+		110,
+		-478
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
