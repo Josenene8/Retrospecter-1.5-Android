@@ -1,0 +1,363 @@
+{
+	"song": {
+		"speed": 3.0,
+		"stage": "minus",
+		"player1": "bf-minus",
+		"player2": "retro-minus",
+		"player3": "gf-minus",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107000.0,
+						-1,
+						"Play Animation",
+						"Grunt",
+						"0"
+					],
+					[
+						10000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						11000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						12000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						13000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						14000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+										[
+						15000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						16000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						17000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						18100.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						18100.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						19000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+										[
+						21000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						22000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						23000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						24000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						24000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						25000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						26000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						27300.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					[
+						74000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						76000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						78100.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						80100.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						81800.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+										[
+						83800.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						84800.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						85700.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						86600.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						88300.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						125500.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						121900.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						120300.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						126500.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						74000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						76000.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						78100.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						80100.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						81800.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+										[
+						83800.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						84800.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						85700.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],					                    [
+						86600.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						88300.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						125500.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						121900.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						120300.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						126500.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					],
+					[
+						126500.0,
+						-2,
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			}
+		],
+		"splashSkin": null,
+		"validScore": false,
+		"bpm": 164,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "acidiron"
+	}
+}
