@@ -1,0 +1,21 @@
+{
+	"songs": [
+		
+			["preseason", "retro-minus", [255, 120, 191]],
+			["sigma", "retro-minus", [51, 204, 255]],
+			["acidiron", "retro-minus", [51, 204, 255]],
+			["preppy", "sakuroma-minusalt", [210, 21, 255]],
+			["overtime", "retro-minus3", [210, 21, 255]]
+
+		
+	],
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"weekCharacters": ["","bf","gf"],
+	"storyName": "",
+	"weekName": "sockleak",
+	"freeplayColor": [253,126,164],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

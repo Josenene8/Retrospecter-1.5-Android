@@ -1,0 +1,21 @@
+{
+	"songs": [
+		
+			["satisfracture", "retro", [255, 120, 191]],
+			["spectral", "retro2-wrath", [51, 204, 255]],
+			["ectospasm", "retro2-wrath", [210, 21, 255]],
+			["retro", "retro", [51, 204, 255]],
+			["satisfracture-remix", "retro", [51, 204, 255]]
+
+		
+	],
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"weekCharacters": ["","bf","gf"],
+	"storyName": "",
+	"weekName": "sockleak",
+	"freeplayColor": [253,126,164],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
