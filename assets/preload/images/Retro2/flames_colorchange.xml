@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flames_colorchange.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flame 10000" x="10" y="10" width="1969" height="950"/>
+	<SubTexture name="flame 10001" x="10" y="10" width="1969" height="950"/>
+	<SubTexture name="flame 10002" x="1989" y="10" width="1969" height="950"/>
+	<SubTexture name="flame 10003" x="1989" y="10" width="1969" height="950"/>
+	<SubTexture name="flame 10004" x="10" y="970" width="1969" height="950"/>
+	<SubTexture name="flame 10005" x="10" y="970" width="1969" height="950"/>
+	<SubTexture name="flame 10006" x="1989" y="970" width="1969" height="950"/>
+	<SubTexture name="flame 10007" x="1989" y="970" width="1969" height="950"/>
+	<SubTexture name="flame 10008" x="10" y="1930" width="1969" height="950"/>
+	<SubTexture name="flame 10009" x="10" y="1930" width="1969" height="950"/>
+	<SubTexture name="flame 10010" x="1989" y="1930" width="1969" height="950"/>
+	<SubTexture name="flame 10011" x="1989" y="1930" width="1969" height="950"/>
+	<SubTexture name="flame 10012" x="10" y="2890" width="1970" height="949"/>
+	<SubTexture name="flame 10013" x="10" y="2890" width="1970" height="949"/>
+	<SubTexture name="flame 10014" x="1990" y="2890" width="1970" height="949"/>
+	<SubTexture name="flame 10015" x="1990" y="2890" width="1970" height="949"/>
+	<SubTexture name="flame 10016" x="10" y="3849" width="1970" height="949"/>
+	<SubTexture name="flame 10017" x="10" y="3849" width="1970" height="949"/>
+	<SubTexture name="flame 10018" x="1990" y="3849" width="1970" height="949"/>
+	<SubTexture name="flame 10019" x="1990" y="3849" width="1970" height="949"/>
+	<SubTexture name="flame 10020" x="10" y="4808" width="1970" height="949"/>
+	<SubTexture name="flame 10021" x="10" y="4808" width="1970" height="949"/>
+	<SubTexture name="flame 10022" x="1990" y="4808" width="1970" height="949"/>
+	<SubTexture name="flame 10023" x="1990" y="4808" width="1970" height="949"/>
+</TextureAtlas>
