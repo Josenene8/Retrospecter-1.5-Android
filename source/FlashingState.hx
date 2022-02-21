@@ -28,9 +28,7 @@ class FlashingState extends MusicBeatState
 			This Mod contains some flashing lights!\n
 			Press ENTER to disable them now or go to Options Menu.\n
 			Press ESCAPE to ignore this message.\n
-			You've been warned!
-			Random Engine by randomxd/n
-			Psych Port by Saw and Sirox",
+			You've been warned!",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
