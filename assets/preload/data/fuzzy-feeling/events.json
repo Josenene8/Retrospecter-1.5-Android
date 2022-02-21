@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 3.0,
+		"stage": "wrath",
+		"player1": "bf-wrath",
+		"player2": "sakuroma",
+		"player3": "gf-wrath",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						29100.0,
+						-1,
+						"Play Animation",
+						"gg",
+						"0"
+					],
+					[
+						119000.0,
+						-1,
+						"Play Animation",
+						"gg",
+						"0"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			}
+		],
+		"splashSkin": null,
+		"validScore": false,
+		"bpm": 164,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "fuzzy-feeling"
+	}
+}
