@@ -3446,7 +3446,7 @@ class PlayState extends MusicBeatState
 								sortedNotesList.push(daNote);
 								notesDatas.push(daNote.noteData);
 								if (!ClientPrefs.noAntimash) {  // Credits to tposejank
-								        canMiss = true;
+								        canMiss = false;
 								}
 							}
 						});
